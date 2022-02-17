@@ -8,5 +8,8 @@ Tools to quickly deal with FAR (FreeStyle Archive) files of DJ Hero 1 and 2 (Xbo
 # Examples
 **node FARUnpacker.js test.FAR TestUnpackDirectory / node Extractor.js DJ_DaftPunk_x2.FAR DaftPunkExtracted**
 
+# To do
+-Implement a FAR Packer sometime
+
 # Credits
 Zedek The Plague Doctor ™️ - For helping me with coding (and ZLib)
